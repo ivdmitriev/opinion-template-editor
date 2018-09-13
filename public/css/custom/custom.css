@@ -1,0 +1,52 @@
+/*================================================================================
+	Item Name: Materialize - Material Design Admin Template
+	Version: 4.0
+	Author: PIXINVENT
+	Author URL: https://themeforest.net/user/pixinvent/portfolio
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN CSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.card .row {
+
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.card .row .card-panel {
+    padding: 0px;
+
+}
+.card .collection-item .row .col p{
+    margin: auto;
+}
+.h5-inline-editor {
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1.64rem;
+    line-height: 110%;
+    margin: 0;
+}
+.h5-inline-editor .input-field {
+    display: inline-flex;
+    width: 100%;
+    max-width: 600px;
+
+}
+.h6-inline-editor {
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 110%;
+    margin: 0 0 0.656rem 0;
+}
+.h6-inline-editor .input-field {
+    display: inline-flex;
+    width: 100%;
+    max-width: 600px;
+
+}
